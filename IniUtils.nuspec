@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>hanetwi</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/8245snake/IniUtils/</projectUrl>
+    <iconUrl>https://github.com/8245snake/IniUtils/</iconUrl>
+    <description>$description$</description>
+    <releaseNotes>first release</releaseNotes>
+    <copyright>$copyright$</copyright>
+    <tags>inifile parser</tags>
+  </metadata>
+</package>
